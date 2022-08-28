@@ -1,0 +1,5 @@
+{
+	"ip":"NOSAMIN.aternos.me",
+	"port": "49492",
+	"name": "afkbot220"
+}
